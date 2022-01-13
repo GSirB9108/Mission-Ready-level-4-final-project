@@ -1,0 +1,17 @@
+.picforqimg {
+    width: 350px;
+}
+.adquestion {
+    display:flex;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.adleft {
+    flex:50%;
+    display: flex;
+    justify-content: center;
+}
+.adright {
+    flex:50%;
+    justify-content: center;
+} 

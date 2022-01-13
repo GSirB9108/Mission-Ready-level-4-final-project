@@ -1,0 +1,38 @@
+/* .toolbar {
+    display: flex;
+}  */ 
+
+.toolbarleft {
+    display:flex;
+    flex:33%;
+    justify-content: flex-start;
+    width:100%;
+}
+
+
+
+.toolbarmid {
+    display:flex;
+    flex:34%;
+    justify-content: center;
+    width:10px;
+    align-items: stretch;
+}
+
+.toolbarright {
+    display:flex;
+    flex:33%;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+.toolbarrighttop {
+    display:flex;
+    justify-content: flex-end;   
+    
+}
+
+.toolbarrightbot {
+    display:flex;
+    justify-content: flex-end;
+}

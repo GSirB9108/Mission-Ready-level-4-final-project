@@ -1,0 +1,38 @@
+/* .productfeatures {
+    text-align: center;
+} */
+
+.header {
+    text-align: center;
+}
+.subheader {
+    display: flex;
+    justify-content: center;
+}
+
+.greybox {
+    background-color: rgb(214, 209, 209);
+    padding-top:5%;
+    padding-bottom:5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.indivlogo {
+    display:flex;
+}
+
+.logo {
+    height:25px;
+}
+
+.indivtext {
+    font-size:small;
+    
+}
+
+.indivtextactual {
+    margin-top: 0px;
+    margin-bottom: 3px;
+
+}

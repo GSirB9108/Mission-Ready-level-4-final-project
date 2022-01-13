@@ -1,0 +1,48 @@
+.loginall {
+    display:flex;
+    justify-content: center;
+}
+
+.loginleft {
+    flex:50%;
+   
+    border-right-style: solid;
+    border-right-width: 1px;
+}
+
+.loginright {
+    flex:50%;
+}
+
+.logandsign {
+    display:flex;
+    justify-content: center;
+}
+
+.students{
+    display: flex;
+    justify-content: center;
+}
+
+.teachers{
+    display: flex;
+    justify-content: center;
+}
+.chooselogin{
+    display: flex;
+    justify-content: center;
+    padding-right: 20px;
+    text-decoration: underline;
+    text-decoration-color: lightskyblue;
+}
+.choosesignup{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    text-decoration-color: red;
+    padding-left:20px;
+}
+.loginoption{
+    align-items: center;
+    text-align: center;
+}

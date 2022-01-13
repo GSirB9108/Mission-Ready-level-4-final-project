@@ -1,0 +1,21 @@
+.onelinesection {
+    padding-top:5%;
+    padding-bottom: 5%;
+    text-align: center;
+}    
+
+.fourimages {
+    display:flex;
+    justify-content: center;
+}
+.featimg {
+    width: 250px;
+    padding-left: 30px;
+}
+
+/* @media screen and (max-width:768px){
+    .fourimages{
+        flex-direction: column;
+    }
+} */
+

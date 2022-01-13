@@ -1,0 +1,53 @@
+.library {
+    display: flex;
+}
+
+.libraryleft {
+    flex:15%;
+    margin-left: 5%;
+}
+
+.libraryright {
+    flex:70%;
+    display:flex-start;
+}
+
+.filtersbar {
+    display:flex;
+}
+.difficultyfilter {
+    display:flex;
+    flex:50%;
+}
+
+.numberdisplayfilter{
+    display:flex;
+    flex:50%;
+    justify-content: flex-end;
+}
+
+.projectsdisplaygrid {
+    display:grid;
+    grid-template-columns: auto auto auto;
+}
+
+.projectimage{
+    width:75%;
+    height:65%;
+    padding-left: 12%;
+}
+
+.project_name{
+    display:flex;
+    justify-content: center;
+}
+.project_description{
+    display: flex;
+    justify-content: center;
+
+}
+
+.buttonatbuttom{
+    display:flex;
+    justify-content: flex-end;
+}
